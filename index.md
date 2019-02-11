@@ -12,6 +12,12 @@ Email: *zbztzhz@163.com*
 
 
 
+## Contents
+
+[Visit Content](https://zuricho.github.com/Zuricho/Content/)
+
+
+
 ## Branches! 各种私货
 
 
@@ -31,12 +37,6 @@ Github: [Zuricho](https://github.com/Zuricho).
 Also my wechat to contact:
 
 ![Contact](.\pic\index\Contact.png)
-
-##Contents
-
-Sorry we still got nothing here.
-
-
 
 ### Markdown
 
