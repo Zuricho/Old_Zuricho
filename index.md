@@ -8,6 +8,8 @@
 
 大篇章的内容还未确定，近期的计划包括修改和增加一点自己之前的公众号：**回忆不如相遇** 的一些东西到这个网站上来，以及一些小小黑科技方面的内容。可能计划中会出现更多的大计划，都会在以后慢慢涉及吧！
 
+Email: *zbztzhz@163.com*
+
 
 
 ## Branches! 各种私货
@@ -16,13 +18,19 @@
 
 Wechat official account: **回忆不如相遇**
 
+![Wechat](.\pic\index\Wechat.png)
+
 Sina Microblog: **钟二不学化学浑身难受**
+
+![Weibo](.\pic\index\Weibo.png)
 
 Twitter: Zuricho_zbzt
 
 Github: [Zuricho](https://github.com/Zuricho).
 
+Also my wechat to contact:
 
+![Contact](.\pic\index\Contact.png)
 
 ##Contents
 
