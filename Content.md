@@ -1,3 +1,3 @@
 ## Content
 
-[Ramachandran Plot](https://zuricho.github.com/Zuricho/Rama/)
+[Ramachandran Plot](https://zuricho.github.io/Zuricho/Rama)
