@@ -12,9 +12,9 @@ Email: *zbztzhz@163.com*
 
 
 
-## Contents
+## Content
 
-[Visit Content](https://zuricho.github.com/Zuricho/Content/)
+[Visit Content](https://zuricho.github.io/Zuricho/Content/)
 
 
 
