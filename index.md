@@ -1,6 +1,24 @@
 ## Welcome to My Page
 
-Also welcome to my blog [Zuricho](https://zuricho.github.io). Have a nice day on my site!
+我是钟博子韬，恭喜你发现了我又一个写小稿子的地方。
+
+在这里我会写一些有趣的东西，英文为主，因为近期面临着GRE和TOEFL考试所以需要练一下英语写作的能力（当然就算是考完也会接着往下写英文的）。大篇章的内容还未确定，近期的计划包括修改和增加一点自己之前的公众号：**回忆不如相遇** 的一些东西到这个网站上来，以及一些小小黑科技方面的内容。可能计划中会出现更多的大计划，都会在下面的Subtitle中涉及吧！
+
+## Branches! 各种私货
+
+Wechat official account: **回忆不如相遇**
+
+Sina Microblog: **钟二不学化学浑身难受**
+
+Twitter: Zuricho_zbzt
+
+Github: [Zuricho](https://github.com/Zuricho).
+
+##Contents
+
+Sorry we still got nothing here.
+
+
 
 ### Markdown
 
