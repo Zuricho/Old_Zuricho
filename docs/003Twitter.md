@@ -1,0 +1,23 @@
+## How to use Twitter to further your research career
+
+> The social-media platform is often a tool for procrastination, says Jet-Sing M. Lee. But what else can it be?
+
+Taking breaks to refresh your mind in tiring days? Maybe you may consider swiping your phone to view some **chiche** from Twitter. Some people regard surfing the web and hanging on Twitter as a procrastinate behavior, but it could be more productive than you think.
+
+The popularity of social media has exploded since Twitter launched just over a decade ago, and the platform has distinguished itself as the place to disseminate tightly packed information with immediacy. Academics have jumped on the bandwagon for a range of practical purposes.
+
+Many are keen to make research visible and understandable to the wider community. For many, Twitter is one step towards this goal, because it allows non-scientists to find new research instantaneously without having to seek it out on lab or university websites. Twitter also provides a ‘way in’ for members of the public who want to contact scientists directly.
+
+Circulating newly published papers allows for more exposure and has been linked to [increased citations](https://medium.com/@illustratedresearch/retweets-for-citations-f41dbf553aab). Twitter mentions are an important alternative metric, or altmetric, a way of rigorously tracking the non-scholarly attention a paper receives. And there have been a [number](https://arxiv.org/abs/1508.02179) of [calls](https://www.sciencedirect.com/science/article/pii/S2405456916300086?via%3Dihub) for establishing a ‘Twitter impact factor’ that follows the popular h-index in aiming to measure both the number and citation impact of a scientist’s publications. [An article last year claimed](https://www.elsevier.com/connect/altmetrics-reveal-insights-into-the-impact-of-scientific-knowledge) that scientists should spend more time on Twitter if they want a higher h-index, although this piece was ridiculed with no small level of irony by a number of high-profile scientists on Twitter. This is another positive for the platform — it serves as a forum for users to connect freely with the wider community.
+
+Twitter can also be used in more technically intriguing ways. [Automated paper-searching bots](https://twitter.com/caseybergman/lists/literaturebots/members) have been created to scour journals and platforms for articles of interest. By following a few relevant bots, or even just the Twitter accounts of journals you are interested in, your feed could be transformed into a digest of relevant papers.
+
+On the topic of automation, Twitter was also [used as a platform for automated chemical synthesis](https://www.nature.com/articles/s41467-018-05828-8) last year. One group at the University of Glasgow, UK, linked a number of chemical-synthesis robots by getting them to communicate exclusively over Twitter.
+
+One practical use for Twitter is the communication of changes in your research group. For many groups, their institutional website is the place to find the latest news and job updates, but these sites aren’t regularly checked by everyone who might be interested. If you make a change to your website, there’s no guarantee that anyone will spot it. But with Twitter, a research group can share its latest news and know that it’s much more likely to be seen.
+
+This is particularly useful when a group is advertising new vacancies, which, before Twitter, could be posted only on specialized websites, often for a fee, and viewed by just a handful of people. Now, job vacancies can be posted on Twitter for free and are seen by a wider audience.
+
+Perhaps the most obvious, and most important, aspect of Twitter is that the platform facilitates a closer, more informal connection between scientists. It can be difficult to see the true nature and personality of authors through the mountains of academic papers they produce. Getting a more human perspective on the big shots we look up to can be refreshing; we can learn about both their science and their wider views, hobbies and the like. By having a more personal line of communication with each other, rather than relying on e-mail correspondence, scientists can connect and form fruitful relationships more easily.Procrastination on social media is not always a negative. It can increase productivity and lead to new opportunities and important connections. Ideas and discussions are still generated over coffee, but sometimes, a tweet might be enough.
+
+[Original Link](https://www.nature.com/articles/d41586-019-00535-w?utm_source=Nature+Briefing&utm_campaign=3f6739dd72-briefing-dy-20190208_COPY_01&utm_medium=email&utm_term=0_c9dfd39373-3f6739dd72-43818337)
